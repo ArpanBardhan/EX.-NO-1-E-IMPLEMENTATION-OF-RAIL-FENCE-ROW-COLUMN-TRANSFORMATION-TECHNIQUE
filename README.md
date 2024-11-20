@@ -1,7 +1,7 @@
-# EX.-NO-2A-IMPLEMENTATION-OF-RAIL-FENCE-ROW-COLUMN-TRANSFORMATION-TECHNIQUE
+# EX.-NO-2B - COLUMN-TRANSFORMATION CIPHER
 
 ## AIM:
-  To write a C program to implement the rail fence transposition technique.
+  To write a C program to implement the column transformation cipher.
   
 ## ALGORITHM:
 
